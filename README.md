@@ -13,5 +13,8 @@ Phaser game develop boilerplate
 
 ### screen shot
 
-!(screen)[https://raw.githubusercontent.com/stormslowly/phaser-webpack-es6-boilerplate/master/screen.png]
+![screen](https://raw.githubusercontent.com/stormslowly/phaser-webpack-es6-boilerplate/master/screen.png)
 
+the rainbow test is browed from <https://github.com/belohlavek/phaser-es6-boilerplate>. it's also a nice phaser boilerplate
+
+-have fun-
